@@ -1,0 +1,4 @@
+Test Loss: 0.7563
+Test Accuracy: 0.6272
+Test F1Score: 0.5526
+Test ROC AUC: 0.7952
