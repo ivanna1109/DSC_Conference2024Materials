@@ -1,5 +1,3 @@
-Prvi trening:
-
              precision    recall  f1-score   support
 
            0       0.74      1.00      0.85      1452
@@ -9,52 +7,3 @@ Prvi trening:
     accuracy                           0.64      4177
    macro avg       0.62      0.63      0.61      4177
 weighted avg       0.62      0.64      0.62      4177
-
-Drugi trening:
-
-             precision    recall  f1-score   support
-
-           0       0.74      1.00      0.85      1451
-           1       0.56      0.43      0.48      1394
-           2       0.57      0.48      0.52      1332
-
-    accuracy                           0.64      4177
-   macro avg       0.62      0.64      0.62      4177
-weighted avg       0.62      0.64      0.62      4177
-
-Treci trening:
-
-             precision    recall  f1-score   support
-
-           0       0.74      1.00      0.85      1462
-           1       0.57      0.34      0.43      1392
-           2       0.56      0.57      0.56      1323
-
-    accuracy                           0.65      4177
-   macro avg       0.62      0.64      0.61      4177
-weighted avg       0.63      0.65      0.62      4177
-
-Cetvrti trening:
-
-              precision    recall  f1-score   support
-
-           0       0.73      1.00      0.85      1454
-           1       0.58      0.33      0.42      1382
-           2       0.56      0.58      0.57      1341
-
-    accuracy                           0.65      4177
-   macro avg       0.62      0.64      0.61      4177
-weighted avg       0.63      0.65      0.62      4177
-
-Peti trening:
-
-              precision    recall  f1-score   support
-
-           0       0.73      1.00      0.85      1463
-           1       0.56      0.34      0.42      1385
-           2       0.55      0.55      0.55      1329
-
-    accuracy                           0.64      4177
-   macro avg       0.61      0.63      0.61      4177
-weighted avg       0.62      0.64      0.61      4177
-
